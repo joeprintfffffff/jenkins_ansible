@@ -22,4 +22,8 @@ class HelloTest extends \Codeception\Test\Unit
         codecept_debug('Hello, Im from debug mode');
         $this->assertTrue(true);
     }
+
+    public function testFailedTest(){
+        $this->assertFalse(true);
+    }
 }
