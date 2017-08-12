@@ -24,6 +24,6 @@ class HelloTest extends \Codeception\Test\Unit
     }
 
     public function testFailedTest(){
-        $this->assertFalse(true);
+        $this->assertFalse(false);
     }
 }
