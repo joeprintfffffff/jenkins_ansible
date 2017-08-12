@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="unit" tests="1" assertions="1" failures="0" errors="0" time="0.001158">
+    <testcase name="testSomeFeature" class="HelloTest" file="/Users/ebrahim/tut/jenkins_codecept/tests/unit/HelloTest.php" assertions="1" time="0.001158"/>
+  </testsuite>
+</testsuites>
